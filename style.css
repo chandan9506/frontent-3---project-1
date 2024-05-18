@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:white;
+    margin:20px;
+}
+h1{
+    color:white;
+    
+}
+#divElement{
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+p{
+    color:red;
+}
+button{
+    width:100px;
+    margin-right:10px;
+    border-radius: 5px;
+}
+#clr{
+    background-color: black;
+    border: 1px solid white;
+    color:white;
+}
+.container{
+    display: flex;
+
+}
